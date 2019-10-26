@@ -1,4 +1,4 @@
-# Vimeo_React_Challenge
+# React_Challenge
 
 This project was created for Vimeo by Jack Nichols (Stanford '19) as part of a Coding Challenge.
 
